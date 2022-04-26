@@ -4,7 +4,7 @@ Hi 👋 My name is Batuhan Diler
 Software Developer
 ------------------
 
-* 🌍  I'm based in Sakarya, Turkey
+* 🌍  I'm based in Serdivan, Sakarya, Turkey
 * ✉️  You can contact me at [batudiler5@gmail.com](mailto:batudiler5@gmail.com)
 
 ### Skills
